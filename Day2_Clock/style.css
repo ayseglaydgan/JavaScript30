@@ -1,5 +1,5 @@
 html {
-    background: #018DED url(https://unsplash.it/1500/1000?image=881&blur=5);
+    background: #984426 url(https://img.freepik.com/free-psd/christmas-3d-background-with-gingerbread-cookies-candy-canes_23-2149226390.jpg?w=2000&t=st=1691068412~exp=1691069012~hmac=176f2b9afde0a24b0a6eb8d5fb6ea07e88092fe84e51a88cb72737431867db3e);
     background-size: cover;
     font-family: 'helvetica neue';
     text-align: center;
@@ -28,6 +28,7 @@ body {
         inset 0 0 0 3px #EFEFEF,
         inset 0 0 10px black,
         0 0 10px rgba(0, 0, 0, 0.2);
+    background: url(https://img.freepik.com/premium-vector/hand-drawn-christmas-pattern_73378-843.jpg?w=1380);
 }
 
 .clock-face {
